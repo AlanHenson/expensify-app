@@ -25,7 +25,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tests/components/ExpenseListFilters.test.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -33,6 +33,15 @@
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -60,10 +69,12 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/styles/components/_header.scss" />
         <option value="$PROJECT_DIR$/src/styles/base/_settings.scss" />
         <option value="$PROJECT_DIR$/src/styles/styles.scss" />
         <option value="$PROJECT_DIR$/public/index.html" />
@@ -114,6 +125,7 @@
         <option value="$PROJECT_DIR$/src/tests/fixtures/filters.js" />
         <option value="$PROJECT_DIR$/src/components/ExpenseListFilters.js" />
         <option value="$PROJECT_DIR$/src/tests/components/ExpenseListFilters.test.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -129,6 +141,7 @@
     <option name="width" value="1080" />
     <option name="height" value="1897" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -141,11 +154,6 @@
             <path>
               <item name="expensify-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="expensify-app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="expensify-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="expensify-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,15 +201,16 @@
       <workItem from="1550075145230" duration="14136000" />
       <workItem from="1550097789744" duration="4446000" />
       <workItem from="1550160071921" duration="9626000" />
-      <workItem from="1550257968622" duration="45297000" />
+      <workItem from="1550257968622" duration="45577000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75144000" />
+    <option name="totallyTimeSpent" value="75424000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="-847" width="1080" height="1897" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24929178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -247,13 +256,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/playground/redux-101.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.babelrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -646,6 +648,13 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
