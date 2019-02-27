@@ -46,7 +46,7 @@
 //     createdAt: 2052857201
 // });
 
-database.ref('notes/-LZalfrMrZ9ZNcGSTfkC').remove();
+// database.ref('notes/-LZalfrMrZ9ZNcGSTfkC').remove();
 
 // database.ref('notes').push({
 //     title: 'Course topics',
