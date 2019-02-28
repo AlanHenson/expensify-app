@@ -7,7 +7,7 @@ import {
     setTextFilter
 } from "../../actions/filters";
 
-test('should generat set start date action object', () => {
+test('should generate set start date action object', () => {
     const action = setStartDate(moment(0));
     expect(action).toEqual({
         type: 'SET_START_DATE',
